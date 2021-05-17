@@ -1,5 +1,5 @@
 import { ResolverOptions, DIDResolutionResult, ResolverRegistry, Resolver } from 'did-resolver'
-import { createJWE, JWE, verifyJWS, resolveX25519Encrypters } from 'did-jwt'
+import { createJWE, JWE, verifyJWS, resolveX25519Encrypters } from 'ifesa-did-jwt'
 import { encodePayload, prepareCleartext, decodeCleartext } from 'dag-jose-utils'
 import { RPCClient } from 'rpc-utils'
 

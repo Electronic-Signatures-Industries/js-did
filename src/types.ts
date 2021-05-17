@@ -1,5 +1,5 @@
 import type CID from 'cids'
-import type { JWE } from 'did-jwt'
+import type { JWE } from 'ifesa-did-jwt'
 import type { RPCClient, RPCConnection, RPCRequest, RPCResponse } from 'rpc-utils'
 
 export type CreateJWSParams = {

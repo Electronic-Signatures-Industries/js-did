@@ -38,8 +38,8 @@
     "@stablelib/random": "^1.0.0",
     "cids": "^1.1.6",
     "dag-jose-utils": "^0.1.1",
-    "ifesa-did-jwt": "git+https://github.com/Electronic-Signatures-Industries/did-jwt-rsa",
     "did-resolver": "^3.0.1",
+    "ifesa-did-jwt": "git+https://github.com/Electronic-Signatures-Industries/did-jwt-rsa",
     "rpc-utils": "^0.3.4",
     "uint8arrays": "^2.1.5"
   },
