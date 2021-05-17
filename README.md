@@ -5,8 +5,11 @@ A simple library to interact with DIDs that conform to the DID-provider interfac
 ## Installation
 
 ```sh
-npm install dids
+npm install ifesa-dids
 ```
+
+## Interim fork that adds RSA algorithm feature
+===========================
 
 ## API
 [API documentation](https://ceramicnetwork.github.io/js-did/classes/did.html)

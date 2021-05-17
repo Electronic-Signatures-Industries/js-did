@@ -1,5 +1,5 @@
 {
-  "name": "dids",
+  "name": "ifesa-dids",
   "version": "2.1.0",
   "description": "Typescript library for interacting with DIDs",
   "main": "lib/index.js",
@@ -38,7 +38,7 @@
     "@stablelib/random": "^1.0.0",
     "cids": "^1.1.6",
     "dag-jose-utils": "^0.1.1",
-    "did-jwt": "^5.0.0",
+    "ifesa-did-jwt": "^5.0.0",
     "did-resolver": "^3.0.1",
     "rpc-utils": "^0.3.4",
     "uint8arrays": "^2.1.5"
